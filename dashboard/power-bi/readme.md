@@ -1,4 +1,4 @@
-## 📊 Data Professional Survey Analysis (Power BI)
+## 💼 Data Professional Survey Analysis (Power BI)
 
 - Tool: Power BI
 - Data: Global survey of data professionals
